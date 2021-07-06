@@ -1,0 +1,1 @@
+flutter drive --target=$PWD/login.dart --profile

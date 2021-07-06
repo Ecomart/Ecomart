@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "166348615356",
+    "firebase_url": "https://ecomart-5e70e-default-rtdb.firebaseio.com",
+    "project_id": "ecomart-5e70e",
+    "storage_bucket": "ecomart-5e70e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166348615356:android:af114acb84180daf7daab9",
+        "android_client_info": {
+          "package_name": "com.comma.ecomart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166348615356-1r613v84dlkhjmvkhe56n2buo056ua24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.comma.ecomart",
+            "certificate_hash": "472f88dd8cd94c680c7a24db5c917d0df4f007d5"
+          }
+        },
+        {
+          "client_id": "166348615356-q4ngm16hhfm31ksk7ppa629eq4h7ocrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpz8qrI7hr5laMQMf82XPU8LNNzWwLUnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166348615356-q4ngm16hhfm31ksk7ppa629eq4h7ocrl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166348615356-378ga2sr8eg7ku592g0c8b1hcmagjlcq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.comma.ecomart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

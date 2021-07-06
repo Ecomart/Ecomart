@@ -1,0 +1,3 @@
+[submodule "storybook"]
+	path = storybook
+	url = https://gitlab.com/inspireui-build/inspireui-storybook.git

@@ -1,0 +1,153 @@
+{
+  "HorizonLayout": [
+    {
+      "showMenu": true,
+      "showLogo": false,
+      "menuIcon": {
+        "name": "bars",
+        "fontFamily": "CupertinoIcons"
+      },
+      "showSearch": false,
+      "layout": "logo"
+    },
+    {
+      "marginTop": 0,
+      "height": 108,
+      "type": "fade",
+      "hideHeader": false,
+      "marginLeft": 20,
+      "showSearch": false,
+      "rotate": [
+        "WooCommerce",
+        "Magento",
+        "Opencart"
+      ],
+      "fontSize": 23,
+      "layout": "header_text",
+      "marginBottom": 0,
+      "textOpacity": 1,
+      "fontWeight": "700",
+      "marginRight": 0
+    },
+    {
+      "shadow": 10,
+      "fontSize": 16,
+      "marginBottom": 0,
+      "marginTop": 0,
+      "showShadow": false,
+      "marginRight": 0,
+      "height": 86,
+      "text": "Search for a product",
+      "padding": 20,
+      "layout": "header_search",
+      "textOpacity": 1,
+      "backgroundInput": true,
+      "borderInput": false,
+      "marginLeft": 0,
+      "boxShadow": {
+      },
+      "radius": 30
+    },
+    {
+      "wrap": false,
+      "type": "image",
+      "items": [
+        {
+          "category": "57",
+          "image": "https://image.shutterstock.com/image-photo/two-shiny-fresh-roasted-coffee-260nw-562127497.jpg"
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/cup-coffee-260nw-507740677.jpg",
+          "category": "57"
+        },
+        {
+          "category": "57",
+          "image": "https://image.shutterstock.com/image-vector/coffee-beans-realistic-set-showing-260nw-637947457.jpg"
+        },
+        {
+          "category": "58",
+          "image": "https://image.shutterstock.com/image-photo/coffee-cup-assortment-top-view-260nw-159200423.jpg"
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/cappuccino-latte-frothy-foam-blue-260nw-531118738.jpg",
+          "category": "57"
+        }
+      ],
+      "showText": true,
+      "layout": "category"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "ProductDetail": "simpleType",
+    "FontFamily": "Raleway"
+  },
+  "TabBar": [
+    {
+      "pos": 100,
+      "layout": "home",
+      "key": "msn6sr4fvc",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "key": "p2tq51iojb",
+      "pos": 200,
+      "layout": "category",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "categoryLayout": "card"
+    },
+    {
+      "key": "fgxqvz6l54",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "layout": "search",
+      "pos": 300
+    },
+    {
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "layout": "cart",
+      "pos": 400,
+      "key": "ub6lax49em"
+    },
+    {
+      "layout": "profile",
+      "key": "9545ufdpv0",
+      "pos": 500,
+      "icon": "assets/icons/tabs/icon-user.png"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "Background": {
+    "layout": "background",
+    "color": null,
+    "image": "https://trello-attachments.s3.amazonaws.com/5d70b58f08cb0676848fc5e5/1200x675/52fbab8f4ae9e62a7aa3a0d86a0829e6/2792283.jpg",
+    "height": 0.3
+  },
+  "VerticalLayout": {
+    "isVertical": true,
+    "layout": "list",
+    "key": "1ila69nd5y",
+    "name": "Recent Collections"
+  }
+}
